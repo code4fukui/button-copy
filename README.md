@@ -1,5 +1,7 @@
 # button-copy
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 One-click copy text from an input field.
 
 ## Demo
