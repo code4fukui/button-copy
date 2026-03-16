@@ -21,4 +21,4 @@ Include the `button-copy.js` script in your HTML:
 ```
 
 ## License
-MIT License
+MIT License — see [LICENSE](LICENSE).
